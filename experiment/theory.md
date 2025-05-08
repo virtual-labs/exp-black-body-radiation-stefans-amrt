@@ -4,11 +4,11 @@ A black body is an ideal body which absorbs or emits all types of electromagneti
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
 <div style="text-align: center;">
-<img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 45%; height: auto;">
+<img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 65%; height: auto;">
 <p style="text-align: center; font-size: smaller; font-style: italic;">Josef Stefan</p>
 </div>
 <div style="text-align: center;">
-<img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 45%; height: auto;">
+<img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 75%; height: auto;">
 <p style="text-align: center; font-size: smaller; font-style: italic;">Ludwig Boltzmann</p>
 </div>
 </div>
