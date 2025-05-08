@@ -1,1 +1,1 @@
-## Experiment name
+## Black Body Radiation: Determination of Stefan's Constant
