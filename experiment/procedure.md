@@ -15,7 +15,7 @@ Heater, temperature-indicators, box containing metallic hemisphere with provisio
 
 
 <ol>
-    <li style="text-align: justify; ">Remove the disc from the bottom of the hemisphere and switch on the heater and allow the water to flow through it.<img src="/userfiles/1/image/boltzmann/boltzmann.JPG" width="0" height="0" alt=""><img src="/userfiles/1/image/boltzmann/boltzmann.JPG" width="370" height="251" align="right" alt=""></li>
+    <li style="text-align: justify; ">Remove the disc from the bottom of the hemisphere and switch on the heater and allow the water to flow through it.</li>
     <li style="text-align: justify; ">Allow the hemisphere to reach the steady state and note down the temperature T<sub>1</sub>, T<sub>2</sub>, T<sub>3</sub> .</li>
     <li style="text-align: justify; ">Fit the disc (black body) at the bottom of the hemisphere and note down its rise in temperature with respect to time till steady state is reached.</li>
     <li style="text-align: justify; ">A graph is plotted with temperature of disc along Y-axis and time along X-axis as shown.</li>
