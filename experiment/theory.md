@@ -48,7 +48,7 @@ $$\sigma A(T_{h}^{4}-T_{d}^{4})=mC_{p}\frac{dT}{dt}............(5)$$
 
 Hence,
 
-$$\sigma =\frac{mC_{p}}{A(T_{h}^4-T_{b}^{4})}\frac{dT}{dt}............(6)$$
+$$\sigma =\frac{mC_{p}}{A(T_{h}^4-T_{d}^{4})}\frac{dT}{dt}............(6)$$
 
 
 ### Applications:
