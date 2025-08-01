@@ -24,6 +24,42 @@
      
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "According to Stefan's law of radiation, R=𝜀σT<sup>4</sup>, where 𝜀 is called",
+      "answers": {
+        "a": "Permittivity",
+        "b": "Permeability",
+        "c": "Susceptibility",
+        "d": "Emissivity"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Emissivity for a black body is 𝜀 =1. For a perfect reflector it is",
+      "answers": {
+        "a": "One",
+        "b": "Zero",
+        "c": "Infinity",
+        "d": "Half"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The SI unit of Stefan's Boltzmann constant is",
+      "answers": {
+        "a": "$Wm^{-2}K^{-4}$",
+        "b": "$Wm^{2}K^{-4}$",
+        "c": "$Wm^{-2}K^{4}$",
+        "d": "$Wm^{-1}K^{-4}$"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
   ]
 }
